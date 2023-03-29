@@ -1,0 +1,21 @@
+type: theme
+base theme: false
+core_version_requirement: ^9 || ^10
+
+name: 'Seo Tech'
+description: 'A Drupal them for practise.'
+
+
+regions:
+  navigation_collapsible: 'Navigation (Collapsible)'
+  header: 'Header'
+  topbar: 'topbar'
+  services: 'Our services'
+  about: 'about'
+  content: 'Content'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+libraries:
+    - 'seotech/global-styling'

@@ -1,0 +1,11 @@
+global-styling:
+  css:
+    theme:
+      css/bootstrap.css: {}
+      css/responsive.css: {}
+      css/style.css: {}
+  js:
+    js/bootstrap.js: {}
+    js/custom.js: {}
+    js/jquery-3.4.1.min.js: {}
+
