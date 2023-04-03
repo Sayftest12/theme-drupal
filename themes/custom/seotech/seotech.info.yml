@@ -12,6 +12,7 @@ regions:
   topbar: 'topbar'
   services: 'Our services'
   about: 'about'
+  Work_Process: 'Work Process'
   content: 'Content'
   footer: 'Footer'
   page_top: 'Page top'
