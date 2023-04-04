@@ -13,10 +13,11 @@ regions:
   services: 'Our services'
   about: 'about'
   Work_Process: 'Work Process'
+  team: 'Our Team'
   content: 'Content'
   footer: 'Footer'
   page_top: 'Page top'
   page_bottom: 'Page bottom'
-
+  page_bottom: 'Page bottom'
 libraries:
     - 'seotech/global-styling'
