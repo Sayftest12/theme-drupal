@@ -18,6 +18,5 @@ regions:
   footer: 'Footer'
   page_top: 'Page top'
   page_bottom: 'Page bottom'
-  page_bottom: 'Page bottom'
 libraries:
     - 'seotech/global-styling'
