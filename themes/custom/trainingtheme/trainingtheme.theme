@@ -23,8 +23,8 @@ function trainingtheme_preprocess_html(&$variables) {
 function trainingtheme_preprocess_node(&$variables) {
 
 }
-function trainingtheme_preprocess_paragraph__cardbackground(&$variables) {
-$variables['attributes']['class'][] = 'cardbackground' ;
+function trainingtheme_preprocess_paragraph__card_deck(&$variables) {
+$variables['attributes']['class'][] = 'card-deck' ;
 }
 
 
